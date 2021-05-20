@@ -2,5 +2,6 @@
 int main()
 {
     float chugj;
-    chugj = 9;
+    chugj =0;
+    std:: cout<<"alo alo";
 }
